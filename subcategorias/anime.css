@@ -1,0 +1,34 @@
+.navbar{
+    background-color: yellow;
+    font-family:fantasy;
+    border-style: double;
+}
+
+a:hover{
+    color: white;
+}
+
+.navbar-brand{
+   color: black;
+}
+
+.nav-link{
+    color: black;
+}
+
+.nav-link:hover{
+    color: white;
+
+}
+
+body{
+    background-color: turquoise;
+}
+
+.page-footer{
+    background-color: #3F729B;
+    position:relative;
+    border-style: groove;
+    
+    
+}
