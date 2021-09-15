@@ -113,6 +113,16 @@ a:hover{
  
 }
 
+.cartelera{
+  background-color: gray;
+  margin-bottom: 50px;
+  text-align: center;
+  margin-top: 40PX; 
+  margin-left: 50PX;
+  margin-right: 50PX;
+  border-style:double;
+
+}
 .list-group-item{
 text-align: center;
 
