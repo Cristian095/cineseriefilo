@@ -111,6 +111,21 @@ a:hover{
    
  
 }
+
+.list-group-item{
+text-align: center;
+
+}
+
+.sinopsisdune{
+  float: left;
+
+  
+  
+}
+
+
+
 .page-footer{
     background-color: #3F729B;
     position:relative;
