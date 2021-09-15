@@ -32,7 +32,7 @@ a:hover{
 }
 
 .sidenav {
-    height: 247%;
+    height: 78%;
     width: 160px;
     position:fixed;
     z-index: 1;
@@ -42,7 +42,8 @@ a:hover{
     overflow-x: hidden;
     padding-top: 20px;
     border-style: groove; 
-    margin-top: 60px;
+    margin-top: 62px;
+    
     
     
   }
@@ -51,14 +52,14 @@ a:hover{
     padding: 6px 8px 6px 9px;
     text-decoration: none;
     font-size: 25px;
-    color: black;
+    color: white;
     display: block;
     font-family:monospace;
     
   }
   
   .sidenav a:hover {
-    color:white;
+    color:black;
   }
   
   .main {
