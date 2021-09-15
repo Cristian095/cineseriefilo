@@ -127,10 +127,14 @@ a:hover{
 .list-group{
   margin-left: 20px;
   margin-right: 20px;
+  border-top-left-radius: 10px;
+  
+  
 }
 
 .list-group-item{
 text-align: center;
+
 
 }
 
