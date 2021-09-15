@@ -42,6 +42,11 @@ body{
     position: relative;
 }
 
+.card{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 .titulo{
     background-color: yellow;
     border-top-left-radius: 10px;
