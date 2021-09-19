@@ -149,7 +149,19 @@ text-align: center;
   
 }
 
+.formulario{
+  background-color: gray;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: white;
+  
+}
 
+#emailHelp{
+  color: white;
+}
 
 .page-footer{
     background-color: #3F729B;
