@@ -27,6 +27,8 @@ body{
     position: relative;
 }
 
+
+
 .series{
     background-color: white;
     width: 1600px;
@@ -47,6 +49,8 @@ body{
     margin-right: 20px;
 }
 
+
+
 .titulo{
     background-color: yellow;
     border-top-left-radius: 10px;
@@ -55,6 +59,9 @@ body{
     position: relative;
    
 }
+
+
+
 .page-footer{
     background-color: #3F729B;
     position:relative;
